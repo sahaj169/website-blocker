@@ -1,0 +1,7 @@
+program architecture
+
+
+
+C:\Windows\System32\drivers\etc
+
+cd OneDrive\desktop\techprojects\pymegaprojects\websiteblocker\
